@@ -1,1 +1,1 @@
-# dank-shitpost-network
+This is a Mastodon bot based on work from [tracery-mastodon-bot](https://glitch.com/edit/#!/tracery-mastodon-bot) and licensed under the ISC license. It *is* remixed from tracery-mastodon-bot, but is largely demolished, to build my own routines from that.
